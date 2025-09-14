@@ -72,6 +72,12 @@ L = L_recon + λ₁L_cluster + λ₂L_KL
 
 ---
 
+## 📊 Cluster Visualization
+
+![Cluster Visualization](cluster_visualization.png)
+
+---
+
 ## 📈 Business Impact
 - **Risk-Based Lending:** Automate low-risk approvals
 - **Human-in-the-loop Review:** Focus on uncertain/high-risk cases
